@@ -8,6 +8,7 @@ Este curso introductorio de aproximadamente 1 hora guía a estudiantes de secund
 - **Público objetivo**: Estudiantes de secundaria (12 a 17 años) sin experiencia previa en programación
 - **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: Navegador web (Chrome, Firefox, Safari o Edge) y editores en línea (CodePen, JSFiddle o Replit)
+- **Lista de reproducción en YouTube**: [Curso completo de HTML y CSS (Playlist)](https://youtube.com/playlist?list=PLFNoV-_eWwFQ&si=3nSYAdbMrG5S2MLr)
 - **Repositorio de código fuente**: [https://github.com/1ASI0730-2620-16129-G1-FuelPoint/webdev-course-fuelpoint](https://github.com/1ASI0730-2620-16129-G1-FuelPoint/webdev-course-fuelpoint)
 
 ---
@@ -82,6 +83,7 @@ Este curso introductorio de aproximadamente 1 hora guía a estudiantes de secund
 
 ## Recursos Adicionales
 
+- **Lista de reproducción completa**: [Curso de HTML y CSS en YouTube](https://youtube.com/playlist?list=PLFNoV-_eWwFQ&si=3nSYAdbMrG5S2MLr)
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/1ASI0730-2620-16129-G1-FuelPoint/webdev-course-fuelpoint)
 - **Documentación y validación recomendada**: [MDN Web Docs en español](https://developer.mozilla.org/es/docs/Learn) · [Validador W3C de HTML](https://validator.w3.org/)
 - **Actividades prácticas**:
