@@ -67,7 +67,7 @@ Este curso introductorio de aproximadamente 1 hora guía a estudiantes de secund
 
 - **Descripción**: Integra todo lo aprendido de HTML y CSS junto con etiquetas semánticas (`<header>`, `<main>`, `<section>` y `<footer>`) para construir desde cero una página de perfil personal con foto circular y tarjetas estilizadas.
 - **Consejos clave**: Usa `<header>`, `<main>`, `<section>` y `<footer>` para estructurar el contenido con claridad; convierte tu avatar en círculo con `border-radius: 50%` y crea tarjetas con fondo blanco, `padding`, `border-radius` y `box-shadow`.
-- **Video**: [Ver lección en YouTube](https://youtu.be/sTdXPLbCmOQ)
+- **Video**: [Ver lección en YouTube](https://youtu.be/UcX8WF9l_qM)
 - **Práctica**: [Abrir CodePen](https://codepen.io/pen) (no requiere registro)
 - **Archivos de práctica**: [HTML inicial](starter-files/leccion-07/index.html) · [CSS inicial](starter-files/leccion-07/style.css) · [HTML completo](completed-examples/leccion-07/index.html) · [CSS completo](completed-examples/leccion-07/style.css)
 
@@ -75,7 +75,7 @@ Este curso introductorio de aproximadamente 1 hora guía a estudiantes de secund
 
 - **Descripción**: Aprende a identificar y corregir los 4 errores más frecuentes en HTML y los 4 errores clásicos en CSS, valida código con herramientas oficiales de la W3C y descubre cómo seguir avanzando con MDN y JavaScript.
 - **Consejos clave**: Cierra cada etiqueta apenas la abras, verifica que las URLs incluyan `https://`, revisa los `;` y llaves `}` en CSS, antepón `.` a las clases y apóyate en el [Validador de HTML](https://validator.w3.org/).
-- **Video**: Pendiente de publicación
+- **Video**: [Ver lección en YouTube](https://youtu.be/fk_luKpBgdc)
 - **Práctica**: [Abrir CodePen](https://codepen.io/pen) (no requiere registro)
 - **Archivos de práctica**: [HTML inicial](starter-files/leccion-08/index.html) · [CSS inicial](starter-files/leccion-08/style.css) · [HTML completo](completed-examples/leccion-08/index.html) · [CSS completo](completed-examples/leccion-08/style.css)
 

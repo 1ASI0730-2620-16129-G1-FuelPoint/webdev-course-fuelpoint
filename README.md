@@ -41,8 +41,8 @@ webdev-course-fuelpoint/
 | 4 | Imágenes y enlaces | 7 min | [Ver video](https://youtu.be/d1xERCYz5NM) | [inicio](starter-files/leccion-04/) · [final](completed-examples/leccion-04/) |
 | 5 | Introducción a CSS | 8 min | [Ver video](https://youtu.be/IKArYzcWaBE) | [inicio](starter-files/leccion-05/) · [final](completed-examples/leccion-05/) |
 | 6 | Estilos simples: centrar, bordes y espacios | 8 min | [Ver video](https://youtu.be/_U5hqKsP3QU) | [inicio](starter-files/leccion-06/) · [final](completed-examples/leccion-06/) |
-| 7 | Proyecto: tu página de perfil | 10 min | [Ver video](https://youtu.be/sTdXPLbCmOQ) | [inicio](starter-files/leccion-07/) · [final](completed-examples/leccion-07/) |
-| 8 | Detective de errores y próximos pasos | 6 min | Pendiente | [inicio](starter-files/leccion-08/) · [final](completed-examples/leccion-08/) |
+| 7 | Proyecto: tu página de perfil | 10 min | [Ver video](https://youtu.be/UcX8WF9l_qM) | [inicio](starter-files/leccion-07/) · [final](completed-examples/leccion-07/) |
+| 8 | Detective de errores y próximos pasos | 6 min | [Ver video](https://youtu.be/fk_luKpBgdc) | [inicio](starter-files/leccion-08/) · [final](completed-examples/leccion-08/) |
 | | **Total** | **~59 min** | | |
 
 ## Para seguir aprendiendo
