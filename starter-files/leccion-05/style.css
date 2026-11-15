@@ -1,0 +1,24 @@
+/* Lección 5: Introducción a CSS */
+/* Así se escribe una regla de CSS:
+   selector {
+     propiedad: valor;
+   }
+*/
+
+/* PASO 1: con el selector body, cambia el tipo de letra de toda la página
+   font-family: Arial, Helvetica, sans-serif; */
+
+
+/* PASO 2: con el selector h1, h2 pinta los títulos de un color
+   color: #2a7ae2; */
+
+
+/* PASO 3: con el selector de CLASE .destacado (lleva punto)
+   cambia el color de fondo: background-color: #fff3b0; */
+
+
+/* PASO 4: con el selector de ID #titulo-principal (lleva numeral)
+   agranda el título: font-size: 48px; */
+
+
+/* RETO: cambia el color de los enlaces con el selector a */

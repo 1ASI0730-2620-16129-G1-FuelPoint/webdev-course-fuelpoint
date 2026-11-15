@@ -1,0 +1,26 @@
+/* Selector de ELEMENTO: afecta a todas las etiquetas de ese tipo */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+}
+
+/* Puedes usar varios selectores separados por coma */
+h1,
+h2 {
+  color: #2a7ae2;
+}
+
+/* Selector de CLASE: empieza con punto (.) */
+.destacado {
+  background-color: #fff3b0;
+}
+
+/* Selector de ID: empieza con numeral (#) */
+#titulo-principal {
+  font-size: 48px;
+}
+
+/* Reto */
+a {
+  color: #e2462a;
+}

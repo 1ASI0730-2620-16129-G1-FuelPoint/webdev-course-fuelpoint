@@ -1,0 +1,52 @@
+/* Selector de ELEMENTO: afecta a todas las etiquetas de ese tipo */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+}
+
+/* Puedes usar varios selectores separados por coma */
+h1,
+h2 {
+  color: #2a7ae2;
+}
+
+/* Selector de CLASE: empieza con punto (.) */
+.destacado {
+  background-color: #fff3b0;
+}
+
+/* Selector de ID: empieza con numeral (#) */
+#titulo-principal {
+  font-size: 48px;
+}
+
+/* Reto */
+a {
+  color: #e2462a;
+}
+
+/* ------------------------------------------------ */
+/* Lección 6: Estilos simples                       */
+/* ------------------------------------------------ */
+
+/* PASO 1: centra la página. Agrega esto dentro de body { }:
+   max-width: 700px;   (ancho máximo)
+   margin: 0 auto;     (centra el contenido)
+   padding: 20px;      (espacio interior)
+   background-color: #f0f4ff; */
+
+/* PASO 2: centra el texto de los títulos con text-align: center; */
+
+/* PASO 3: centra la imagen y ponle borde:
+   img {
+     display: block;
+     margin: 0 auto;
+     border: 4px solid #2a7ae2;
+     border-radius: 12px;
+   } */
+
+/* PASO 4: dale a .destacado un poco de espacio y esquinas redondeadas:
+   padding: 10px;
+   border-radius: 8px; */
+
+/* RETO: pon un borde punteado (dashed) a las listas ul y ol */

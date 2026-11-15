@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f4ff;
+  color: #333333;
+}
+
+header {
+  background-color: #2a7ae2;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+header h1 {
+  margin: 10px 0 5px;
+  font-size: 40px;
+}
+
+.foto {
+  border-radius: 50%;          /* 50% = círculo */
+  border: 5px solid white;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.tarjeta {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  /* EXTRA: una sombra suave para que la tarjeta "flote" */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tarjeta h2 {
+  color: #2a7ae2;
+  margin-top: 0;
+  border-bottom: 2px solid #f0f4ff;
+  padding-bottom: 8px;
+}
+
+a {
+  color: #e2462a;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #777777;
+}
