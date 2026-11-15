@@ -1,0 +1,9 @@
+# IDEs y editores locales
+.idea/
+.vscode/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
