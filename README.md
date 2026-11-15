@@ -4,6 +4,7 @@ Curso de video de ~60 minutos para estudiantes de secundaria (12 a 17 años) sin
 **No necesitas instalar nada:** solo un navegador web (Chrome, Firefox, Safari o Edge) y un editor en línea gratuito como [CodePen](https://codepen.io/pen/).
 
 La planificación académica completa y los enlaces del curso se encuentran en [`course-plan.md`](course-plan.md).
+También puedes ver todas las lecciones publicadas en la [Lista de reproducción en YouTube](https://youtube.com/playlist?list=PLFNoV-_eWwFQ&si=3nSYAdbMrG5S2MLr).
 
 ## Cómo usar este repositorio
 
@@ -32,17 +33,17 @@ webdev-course-fuelpoint/
 
 ## Lecciones
 
-| # | Lección | Duración | Archivos |
-|---|---|---|---|
-| 1 | ¿Qué es un sitio web? | 5 min | [inicio](starter-files/leccion-01/) · [final](completed-examples/leccion-01/) |
-| 2 | La estructura de una página HTML | 7 min | [inicio](starter-files/leccion-02/) · [final](completed-examples/leccion-02/) |
-| 3 | Títulos, párrafos y listas | 8 min | [inicio](starter-files/leccion-03/) · [final](completed-examples/leccion-03/) |
-| 4 | Imágenes y enlaces | 7 min | [inicio](starter-files/leccion-04/) · [final](completed-examples/leccion-04/) |
-| 5 | Introducción a CSS | 8 min | [inicio](starter-files/leccion-05/) · [final](completed-examples/leccion-05/) |
-| 6 | Estilos simples: centrar, bordes y espacios | 8 min | [inicio](starter-files/leccion-06/) · [final](completed-examples/leccion-06/) |
-| 7 | Proyecto: tu página de perfil | 10 min | [inicio](starter-files/leccion-07/) · [final](completed-examples/leccion-07/) |
-| 8 | Detective de errores y próximos pasos | 6 min | [inicio](starter-files/leccion-08/) · [final](completed-examples/leccion-08/) |
-| | **Total** | **~59 min** | |
+| # | Lección | Duración | Video | Archivos |
+|---|---|---|---|---|
+| 1 | ¿Qué es un sitio web? | 5 min | [Ver video](https://youtu.be/YaChPShdf-A) | [inicio](starter-files/leccion-01/) · [final](completed-examples/leccion-01/) |
+| 2 | La estructura de una página HTML | 7 min | [Ver video](https://youtu.be/gnN7IYBbT4Q) | [inicio](starter-files/leccion-02/) · [final](completed-examples/leccion-02/) |
+| 3 | Títulos, párrafos y listas | 8 min | [Ver video](https://youtu.be/vg8cPlvLH8E) | [inicio](starter-files/leccion-03/) · [final](completed-examples/leccion-03/) |
+| 4 | Imágenes y enlaces | 7 min | [Ver video](https://youtu.be/d1xERCYz5NM) | [inicio](starter-files/leccion-04/) · [final](completed-examples/leccion-04/) |
+| 5 | Introducción a CSS | 8 min | [Ver video](https://youtu.be/IKArYzcWaBE) | [inicio](starter-files/leccion-05/) · [final](completed-examples/leccion-05/) |
+| 6 | Estilos simples: centrar, bordes y espacios | 8 min | [Ver video](https://youtu.be/_U5hqKsP3QU) | [inicio](starter-files/leccion-06/) · [final](completed-examples/leccion-06/) |
+| 7 | Proyecto: tu página de perfil | 10 min | [Ver video](https://youtu.be/sTdXPLbCmOQ) | [inicio](starter-files/leccion-07/) · [final](completed-examples/leccion-07/) |
+| 8 | Detective de errores y próximos pasos | 6 min | Pendiente | [inicio](starter-files/leccion-08/) · [final](completed-examples/leccion-08/) |
+| | **Total** | **~59 min** | | |
 
 ## Para seguir aprendiendo
 
