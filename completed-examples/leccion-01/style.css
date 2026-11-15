@@ -1,0 +1,11 @@
+/* CSS = el ESTILO: cómo se ve la página */
+/* Prueba: borra todo este código y mira la diferencia */
+
+body {
+  background-color: #fdf6e3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #2a7ae2;
+}
