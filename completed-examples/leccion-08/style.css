@@ -1,0 +1,23 @@
+body {
+  /* ERROR 1 corregido: cada línea termina en punto y coma ; */
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f4ff;
+}
+
+h1 {
+  /* ERROR 2 corregido: la propiedad se escribe "color", no "colr" */
+  color: #2a7ae2;
+}
+
+/* ERROR 3 corregido: las clases llevan punto adelante (.destacado) */
+.destacado {
+  background-color: #fff3b0;
+}
+
+img {
+  border: 3px solid #2a7ae2;
+} /* ERROR 4 corregido: faltaba cerrar la llave } */
+
+a {
+  color: #e2462a;
+}
